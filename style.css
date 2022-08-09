@@ -23,4 +23,22 @@ body {
     margin: 30px auto;
   }
 }
+
+#pricing .row .col-12 {
+  width: 32%;
+  margin-bottom: 25px;
+  margin: auto;
+}
+
+@media screen and (max-width: 991px) {
+  #pricing .row .col-12 {
+    width: 48%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #pricing .row .col-12 {
+    width: 98%;
+  }
+}
 /*# sourceMappingURL=style.css.map */
