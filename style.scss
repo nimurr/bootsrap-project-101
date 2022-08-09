@@ -61,3 +61,23 @@ body{
          
     
 }
+
+#btn{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #1e90ff;
+    border-radius: 5px;
+
+    i{ 
+        font-size: 25px;
+        color: #fff;
+    }
+
+}
