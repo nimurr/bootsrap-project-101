@@ -3,15 +3,11 @@ body {
   font-family: 'Nunito', sans-serif;
 }
 
-#navition .row {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-}
-
-#navition .row .logo {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+.ourbalues-shadow {
+  -webkit-box-shadow: 0px 0px 50px #cacaca;
+          box-shadow: 0px 0px 50px #cacaca;
+  width: 32%;
+  margin: auto;
+  margin: 50px auto;
 }
 /*# sourceMappingURL=style.css.map */
